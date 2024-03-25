@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c239d5ebdb6a62b1510ab3bac3c8481",
+    "revision": "b6829f48477bc228b17701e6f8d6b80d",
     "url": "./index.html"
   },
   {
-    "revision": "4d2e5c0c2a13d8ae7bbe",
+    "revision": "59dd19b21d14aa9145e4",
     "url": "./static/css/main.5091578a.chunk.css"
   },
   {
-    "revision": "501aec8b8f18836dc95d",
-    "url": "./static/js/2.f2865282.chunk.js"
+    "revision": "8c93a0234fa865d7a3f1",
+    "url": "./static/js/2.9e1dbbb5.chunk.js"
   },
   {
-    "revision": "4d2e5c0c2a13d8ae7bbe",
-    "url": "./static/js/main.ceeaf08d.chunk.js"
+    "revision": "59dd19b21d14aa9145e4",
+    "url": "./static/js/main.82678db1.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -194,6 +194,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "571a8584e69ecfbe326c8b8385fbbf54",
     "url": "./static/media/iiitk_logo.571a8584.png"
+  },
+  {
+    "revision": "71f031ec9b8af140e44160a23537fbe6",
+    "url": "./static/media/iitr_logo.71f031ec.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
