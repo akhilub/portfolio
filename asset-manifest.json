@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.5091578a.chunk.css",
-    "main.js": "./static/js/main.82678db1.chunk.js",
-    "main.js.map": "./static/js/main.82678db1.chunk.js.map",
+    "main.css": "./static/css/main.2327cd01.chunk.css",
+    "main.js": "./static/js/main.2d101db3.chunk.js",
+    "main.js.map": "./static/js/main.2d101db3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.9e1dbbb5.chunk.js": "./static/js/2.9e1dbbb5.chunk.js",
-    "static/js/2.9e1dbbb5.chunk.js.map": "./static/js/2.9e1dbbb5.chunk.js.map",
+    "static/js/2.2be42773.chunk.js": "./static/js/2.2be42773.chunk.js",
+    "static/js/2.2be42773.chunk.js.map": "./static/js/2.2be42773.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.eddfdfc575d6fed682a79ca9abfa2efa.js": "./precache-manifest.eddfdfc575d6fed682a79ca9abfa2efa.js",
+    "precache-manifest.ca55744260207783add64b989eddc448.js": "./precache-manifest.ca55744260207783add64b989eddc448.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.5091578a.chunk.css.map": "./static/css/main.5091578a.chunk.css.map",
+    "static/css/main.2327cd01.chunk.css.map": "./static/css/main.2327cd01.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
+    "static/media/akhil_animated.png": "./static/media/akhil_animated.0eb30a53.png",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
@@ -50,12 +51,13 @@
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg"
+    "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
+    "static/media/vnit_logo.png": "./static/media/vnit_logo.c728ebd4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.9e1dbbb5.chunk.js",
-    "static/css/main.5091578a.chunk.css",
-    "static/js/main.82678db1.chunk.js"
+    "static/js/2.2be42773.chunk.js",
+    "static/css/main.2327cd01.chunk.css",
+    "static/js/main.2d101db3.chunk.js"
   ]
 }

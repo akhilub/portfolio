@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6829f48477bc228b17701e6f8d6b80d",
+    "revision": "1c14f6f71b0ece71ff8186b95c805a47",
     "url": "./index.html"
   },
   {
-    "revision": "59dd19b21d14aa9145e4",
-    "url": "./static/css/main.5091578a.chunk.css"
+    "revision": "9774b822228ca9065f22",
+    "url": "./static/css/main.2327cd01.chunk.css"
   },
   {
-    "revision": "8c93a0234fa865d7a3f1",
-    "url": "./static/js/2.9e1dbbb5.chunk.js"
+    "revision": "1414e781af2eb9b0f951",
+    "url": "./static/js/2.2be42773.chunk.js"
   },
   {
-    "revision": "59dd19b21d14aa9145e4",
-    "url": "./static/js/main.82678db1.chunk.js"
+    "revision": "9774b822228ca9065f22",
+    "url": "./static/js/main.2d101db3.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "./static/media/address_image.16559172.svg"
+  },
+  {
+    "revision": "0eb30a53201b09b9ffacdab929443731",
+    "url": "./static/media/akhil_animated.0eb30a53.png"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -262,5 +266,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "./static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "c728ebd43d10c399965ce829c1d8c07a",
+    "url": "./static/media/vnit_logo.c728ebd4.png"
   }
 ]);
