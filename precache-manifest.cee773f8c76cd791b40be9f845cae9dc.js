@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "969b5a304f8d75174f1e2aed019b9c54",
+    "revision": "a7b36e2264b5f09a30c16879000e06fb",
     "url": "./index.html"
   },
   {
-    "revision": "74f7ee7028a82fe6da13",
-    "url": "./static/css/main.5615498d.chunk.css"
+    "revision": "5a8775d4188554a76d40",
+    "url": "./static/css/main.edc56458.chunk.css"
   },
   {
-    "revision": "1414e781af2eb9b0f951",
-    "url": "./static/js/2.2be42773.chunk.js"
+    "revision": "e3f30163d5f6d6e7b37d",
+    "url": "./static/js/2.c1a4faf9.chunk.js"
   },
   {
-    "revision": "74f7ee7028a82fe6da13",
-    "url": "./static/js/main.fc1fa627.chunk.js"
+    "revision": "5a8775d4188554a76d40",
+    "url": "./static/js/main.61f52985.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -102,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
     "url": "./static/media/education.3bab7a9d.svg"
+  },
+  {
+    "revision": "3ea634d705b3820ed1633cadff6117c5",
+    "url": "./static/media/emami_logo.3ea634d7.jpeg"
   },
   {
     "revision": "a00ede3f70759480e81f14f203edaa51",
@@ -222,6 +226,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "./static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "87e071701a0319f342d47b9717caa67e",
+    "url": "./static/media/mezeh_logo.87e07170.png"
   },
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",

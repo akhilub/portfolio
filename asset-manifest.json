@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.5615498d.chunk.css",
-    "main.js": "./static/js/main.fc1fa627.chunk.js",
-    "main.js.map": "./static/js/main.fc1fa627.chunk.js.map",
+    "main.css": "./static/css/main.edc56458.chunk.css",
+    "main.js": "./static/js/main.61f52985.chunk.js",
+    "main.js.map": "./static/js/main.61f52985.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.2be42773.chunk.js": "./static/js/2.2be42773.chunk.js",
-    "static/js/2.2be42773.chunk.js.map": "./static/js/2.2be42773.chunk.js.map",
+    "static/js/2.c1a4faf9.chunk.js": "./static/js/2.c1a4faf9.chunk.js",
+    "static/js/2.c1a4faf9.chunk.js.map": "./static/js/2.c1a4faf9.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.acd7174a8ae343134d7d76afbc63424a.js": "./precache-manifest.acd7174a8ae343134d7d76afbc63424a.js",
+    "precache-manifest.cee773f8c76cd791b40be9f845cae9dc.js": "./precache-manifest.cee773f8c76cd791b40be9f845cae9dc.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.5615498d.chunk.css.map": "./static/css/main.5615498d.chunk.css.map",
+    "static/css/main.edc56458.chunk.css.map": "./static/css/main.edc56458.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/akhil_animated.png": "./static/media/akhil_animated.0eb30a53.png",
@@ -25,6 +25,7 @@
     "static/media/developerActivity.svg": "./static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "./static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "./static/media/education.3bab7a9d.svg",
+    "static/media/emami_logo.jpeg": "./static/media/emami_logo.3ea634d7.jpeg",
     "static/media/experience.svg": "./static/media/experience.a00ede3f.svg",
     "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "./static/media/feelingProud.2936ce95.svg",
@@ -41,6 +42,7 @@
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
+    "static/media/mezeh_logo.png": "./static/media/mezeh_logo.87e07170.png",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
@@ -56,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.2be42773.chunk.js",
-    "static/css/main.5615498d.chunk.css",
-    "static/js/main.fc1fa627.chunk.js"
+    "static/js/2.c1a4faf9.chunk.js",
+    "static/css/main.edc56458.chunk.css",
+    "static/js/main.61f52985.chunk.js"
   ]
 }
